@@ -1,0 +1,51 @@
+body {
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+a {
+    margin-bottom: 20px;
+}
+
+form {
+
+    text-align: center;
+    width: 300px;
+
+}
+
+input,
+button {
+    margin-right: 10px;
+    width: auto;
+
+}
+
+button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.cur {
+    cursor: not-allowed;
+
+}
+
+.estilodepro {
+    margin-right: 10px;
+    width: auto;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+
+}
